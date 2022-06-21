@@ -1,7 +1,7 @@
 # Hello there! 👋
 
-My name is Patrick and I'm an aspiring game programmer interested in backend coding. I have always had interest in games 🎮 and the technical stuff ⚙️ behind them.
-Right now I'm studying at Univerty of Applied Sciences Saxion to expand this interest into knowledge. 📚
+My name is Patrick and I'm an aspiring game programmer excited for programming games. I have always had interest in games 🎮 and the past few years I have garnered more and more interest in the technical stuff ⚙️ behind them.
+Right now I'm studying at University of Applied Sciences Saxion to expand this interest into knowledge. 📚
 
 ## My skills:   
 
