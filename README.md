@@ -17,3 +17,7 @@ Right now I'm studying at University of Applied Sciences Saxion to expand this i
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schildpaddensoep/)
 
 [![FoodGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=food-game&theme=gotham)](https://github.com/patrycioss/food-game)
+[![GameDesign Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=game-programmming-design-game&theme=gotham)](https://github.com/patrycioss/game-programmming-design-game)
+[![PFA Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=project-final-approach&theme=gotham)](https://github.com/patrycioss/project-final-approach)
+[![Algorithmic Dungeon Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=algorithmic-dungeon&theme=gotham)](https://github.com/patrycioss/algorithmic-dungeon)
+
