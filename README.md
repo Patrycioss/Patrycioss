@@ -13,8 +13,8 @@ Right now I'm studying at University of Applied Sciences Saxion to expand this i
 
 ## How to contact me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schildpaddensoep/)
-![Discord](https://img.shields.io/badge/Patricius%232586-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![GMail](https://img.shields.io/badge/patrickschuurdev@gmail.com-%23DC143C.svg?style=for-the-badge&logo=gmail&logoColor=white)
+[![Discord](https://img.shields.io/badge/Patricius%232586-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)
+[![GMail](https://img.shields.io/badge/patrickschuurdev@gmail.com-%23DC143C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickschuurdev@gmail.com)
 
 
 ## My projects:
