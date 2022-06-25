@@ -18,8 +18,8 @@ Right now I'm studying at University of Applied Sciences Saxion to expand this i
 
 
 ## My projects:
-[![FoodGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=food-game&theme=gruvbox_light)](https://github.com/patrycioss/food-game)
-[![GameDesign Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=game-programmming-design-game&theme=cobalt)](https://github.com/patrycioss/game-programmming-design-game)
-[![PFA Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=project-final-approach&theme=shades-of-purple)](https://github.com/patrycioss/project-final-approach)
+[![FoodGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Street-Food-Fighters&theme=gruvbox_light)](https://github.com/patrycioss/Street-Food-Fighters)
+[![GameDesign Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Totally-not-a-mario-ripoff&theme=cobalt)](https://github.com/Patrycioss/Totally-not-a-mario-ripoff)
+[![PFA Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Spare-Parts-Never-Truly-Broken&theme=shades-of-purple)](https://github.com/patrycioss/Spare-Parts-Never-Truly-Broken)
 [![Algorithmic Dungeon Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=algorithmic-dungeon&theme=darcula)](https://github.com/patrycioss/algorithmic-dungeon)
 
