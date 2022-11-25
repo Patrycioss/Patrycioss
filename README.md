@@ -23,3 +23,5 @@ Right now I'm studying at University of Applied Sciences Saxion to expand this i
 [![PFA Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Spare-Parts-Never-Truly-Broken&theme=shades-of-purple)](https://github.com/patrycioss/Spare-Parts-Never-Truly-Broken)
 [![Algorithmic Dungeon Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=algorithmic-dungeon&theme=darcula)](https://github.com/patrycioss/algorithmic-dungeon)
 
+[![CMGT_PrototypeGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=CMGT_PrototypeGame&theme=darcula)](https://github.com/patrycioss/CMGT_PrototypeGame)
+
