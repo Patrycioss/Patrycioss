@@ -15,6 +15,7 @@ Feel free to contact me via:
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Unity](https://img.shields.io/badge/unity-%23303030.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
+
 ## Other things I have dabbled in:
 [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)
 [![Processing](https://img.shields.io/badge/processing-%23006699.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://processing.org/)
@@ -27,7 +28,6 @@ Feel free to contact me via:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 
 
-
 ## Editors that I use:
 [![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://jetbrains.com/rider/)
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://jetbrains.com/clion/)
@@ -36,10 +36,6 @@ Feel free to contact me via:
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
 
-## How to contact me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/schildpaddensoep/)
-[![Discord](https://img.shields.io/badge/Patricius%232586-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)
-[![GMail](https://img.shields.io/badge/patrickschuurdev@gmail.com-%23DC143C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickschuurdev@gmail.com)
 
 
 ## My projects:
