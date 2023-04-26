@@ -10,7 +10,7 @@ Feel free to contact me via:
 [![GMail](https://img.shields.io/badge/patrickschuurdev@gmail.com-%23DC143C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickschuurdev@gmail.com)
 
 
-## My Forté:   
+## My Strengths:   
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Unity](https://img.shields.io/badge/unity-%23303030.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
@@ -18,10 +18,13 @@ Feel free to contact me via:
 
 ## Other things I have dabbled in:
 [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)
-[![Processing](https://img.shields.io/badge/processing-%23006699.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://processing.org/)
+[![Godot](https://img.shields.io/badge/godot-%23006699.svg?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
+[![Processing](https://img.shields.io/badge/processing-%2302569B.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://processing.org/)
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
+
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
