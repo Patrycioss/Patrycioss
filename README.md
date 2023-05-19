@@ -56,7 +56,11 @@ Feel free to contact me via:
 [![Algorithmic Dungeon Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=algorithmic-dungeon&theme=shades-of-purple)](https://github.com/patrycioss/algorithmic-dungeon)
 [![PFA Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Spare-Parts-Never-Truly-Broken&theme=shades-of-purple)](https://github.com/patrycioss/Spare-Parts-Never-Truly-Broken)
 
-### Other
+### Flutter
+[![Able](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=epicest&theme=cobalt)](https://github.com/patrycioss/epicest)
+
+### Unreal
+[![UnrealAim](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=UnrealAim&theme=dracula)](https://github.com/patrycioss/UnrealAim)
 
 
 
