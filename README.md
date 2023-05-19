@@ -66,7 +66,8 @@ Feel free to contact me via:
 ### Unreal
 [![UnrealAim](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=UnrealAim&theme=dracula)](https://github.com/patrycioss/UnrealAim)
 
-
+### Rust
+[![Static Site Generator](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=static-site-generator&theme=codeSTACKr)](https://github.com/patrycioss/static-site-generator)
 
 
 
