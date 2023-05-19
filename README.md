@@ -45,6 +45,8 @@ Feel free to contact me via:
 
 ### Unity
 [![A little too late](https://github-readme-stats.vercel.app/api/pin/?username=wiebehero&repo=ProjectGameY2T1&theme=gruvbox_light)](https://github.com/WiebeHero/ProjectGameY2T1)
+[![Fiery Pet Frenzy](https://github-readme-stats.vercel.app/api/pin/?username=wiebehero&repo=ProjectGameY2T3&theme=gruvbox_light)](https://github.com/WiebeHero/ProjectGameY2T3)
+
 ### C++
 [![CMGT_PrototypeGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=CMGT_PrototypeGame&theme=darcula)](https://github.com/patrycioss/CMGT_PrototypeGame)
 
@@ -53,6 +55,8 @@ Feel free to contact me via:
 [![GameDesign Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Totally-not-a-mario-ripoff&theme=shades-of-purple)](https://github.com/Patrycioss/Totally-not-a-mario-ripoff)
 [![Algorithmic Dungeon Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=algorithmic-dungeon&theme=shades-of-purple)](https://github.com/patrycioss/algorithmic-dungeon)
 [![PFA Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Spare-Parts-Never-Truly-Broken&theme=shades-of-purple)](https://github.com/patrycioss/Spare-Parts-Never-Truly-Broken)
+
+### Other
 
 
 
