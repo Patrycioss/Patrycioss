@@ -3,7 +3,7 @@
 My name is Patrick and I'm an aspiring game programmer excited for programming games. I have always had interest in games and the past few years I have garnered more and more interest in the technical stuff behind them.
 Right now I'm studying at University of Applied Sciences Saxion to expand this interest into knowledge. 
 
-I'm currently following an internship at [Talespin](https://www.talespin.com/) as a Unity engineer.
+I'm currently making a 2D game engine utilising Box2D, OpenGL, GLFW and ImGui in C++. 
 
 Feel free to contact me via:
 
