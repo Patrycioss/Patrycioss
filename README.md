@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Patrick and I'm an aspiring game programmer excited for programming games. I have always had interest in games and the past few years I have garnered more and more interest in the technical stuff behind them.
+My name is Patrick and I'm an aspiring game/engine programmer. I have always had interest in games and the past few years I have garnered more and more interest in the technical stuff behind them.
 Right now I'm studying at University of Applied Sciences Saxion to turn this interest into knowledge. 
 
 I'm currently making a [2D game engine](https://github.com/Patrycioss/FrogEngine.git) utilising Box2D, OpenGL, GLFW and ImGui in C++. 
@@ -40,7 +40,6 @@ Feel free to contact me via:
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
-
 
 
 ## Some of my projects:
