@@ -54,6 +54,7 @@ Feel free to contact me via:
 
 ### C++
 [![CMGT_PrototypeGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=CMGT_PrototypeGame&theme=darcula)](https://github.com/patrycioss/CMGT_PrototypeGame)
+[![Simple_3Dmodel_Loader_Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Simple3DModelLoader&theme=darcula)](https://github.com/patrycioss/Simple3DModelLoader)
 
 ### GXP (study C# engine)
 [![FoodGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Street-Food-Fighters&theme=shades-of-purple)](https://github.com/patrycioss/Street-Food-Fighters)
