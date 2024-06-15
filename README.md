@@ -3,7 +3,7 @@
 My name is Patrick and I'm an aspiring game/engine programmer. I have always had interest in games and the past few years I have garnered more and more interest in the technical stuff behind them.
 Right now I'm studying at University of Applied Sciences Saxion to turn this interest into knowledge. 
 
-I'm currently making a [2D game engine](https://github.com/Patrycioss/FrogEngine.git) utilising Box2D, OpenGL, GLFW and ImGui in C++. 
+I'm currently working on a [2D game engine](https://github.com/Patrycioss/FrogEngine.git) with [Box2D 3.0](https://github.com/erincatto/box2c) integration.
 
 Feel free to contact me via:
 
@@ -18,16 +18,12 @@ Feel free to contact me via:
 [![Unity](https://img.shields.io/badge/unity-%23303030.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 
-
-
-
 ## Some of my projects:
 
 ### C++
 [![FrogEngine_Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=FrogEngine&theme=darcula)](https://github.com/patrycioss/FrogEngine)
 [![CMGT_PrototypeGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=CMGT_PrototypeGame&theme=darcula)](https://github.com/patrycioss/CMGT_PrototypeGame)
 [![Simple_3Dmodel_Loader_Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Simple3DModelLoader&theme=darcula)](https://github.com/patrycioss/Simple3DModelLoader)
-
 
 ### Unity
 [![A little too late](https://github-readme-stats.vercel.app/api/pin/?username=wiebehero&repo=ProjectGameY2T1&theme=gruvbox_light)](https://github.com/WiebeHero/ProjectGameY2T1)
@@ -49,31 +45,3 @@ Feel free to contact me via:
 
 ### Rust
 [![Static Site Generator](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=static-site-generator&theme=codeSTACKr)](https://github.com/patrycioss/static-site-generator)
-
-
-## Other things I have dabbled in:
-[![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)
-[![Godot](https://img.shields.io/badge/godot-%23006699.svg?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
-[![Processing](https://img.shields.io/badge/processing-%2302569B.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://processing.org/)
-
-
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
-
-
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-
-## Editors that I use:
-[![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://jetbrains.com/rider/)
-[![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://jetbrains.com/clion/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://jetbrains.com/idea/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
-
-
-
-
