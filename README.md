@@ -1,9 +1,6 @@
 # Hello there! 👋
 
-My name is Patrick and I'm a Game Engine/Gameplay programmer. I have always had interest in games and the past few years I have garnered more and more interest in the technical stuff behind them.
-Right now I'm studying at University of Applied Sciences Saxion to turn this interest into knowledge. 
-
-I'm currently working on a [2D game engine](https://github.com/Patrycioss/FrogEngine.git) with [Box2D 3.0](https://github.com/erincatto/box2c) integration.
+My name is Patrick and I'm a Game Engine/Gameplay programmer. I'm studying Creative Media and Game Technologies at University of Applied Sciences Saxion.
 
 Feel free to contact me via:
 
@@ -13,8 +10,8 @@ Feel free to contact me via:
 
 
 ## My Strengths:   
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Unity](https://img.shields.io/badge/unity-%23303030.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 
@@ -39,9 +36,6 @@ Feel free to contact me via:
 
 ### Flutter
 [![Able](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=epicest&theme=cobalt)](https://github.com/patrycioss/epicest)
-
-### Unreal
-[![UnrealAim](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=UnrealAim&theme=dracula)](https://github.com/patrycioss/UnrealAim)
 
 ### Rust
 [![Static Site Generator](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=static-site-generator&theme=codeSTACKr)](https://github.com/patrycioss/static-site-generator)
