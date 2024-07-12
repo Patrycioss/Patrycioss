@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Patrick and I'm an aspiring game/engine programmer. I have always had interest in games and the past few years I have garnered more and more interest in the technical stuff behind them.
+My name is Patrick and I'm a Game Engine/Gameplay programmer. I have always had interest in games and the past few years I have garnered more and more interest in the technical stuff behind them.
 Right now I'm studying at University of Applied Sciences Saxion to turn this interest into knowledge. 
 
 I'm currently working on a [2D game engine](https://github.com/Patrycioss/FrogEngine.git) with [Box2D 3.0](https://github.com/erincatto/box2c) integration.
