@@ -18,7 +18,7 @@ body {
   color: #ededed;
 }
 
-.header {
+header {
   position: fixed;
   top: 0;
   left: 0;
@@ -62,11 +62,11 @@ body {
 
 .home{
   height: 100vh;
-  background-size: cover;
-  background: url('yours_truly.png') no-repeat bottom right;
-  display: flex;
-  align-items: center;
-  padding: 0 10%;
+  /*background-size: cover;*/
+  /*background: url('yours_truly.png') no-repeat bottom right;*/
+  /*display: flex;*/
+  /*align-items: center;*/
+  padding: 30vh 10% 0;
 }
 
 .home-content{
@@ -90,7 +90,16 @@ body {
   color: white;
 }
 
+@media screen {
+  @media (orientation: portrait) {
+    .home {
+      padding-top: 20vh;
+    }
+  }
+}
+
 .home-content .btn-box{
+
   display: flex;
   justify-content: space-between;
   width: 345px;
@@ -161,4 +170,12 @@ body {
 
 .home-sci .bxl-discord-alt{
   color: #5865f2;
+}
+
+.yourstruly{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 70vh;
+  z-index: -1;
 }
