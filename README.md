@@ -18,6 +18,7 @@ Feel free to contact me via:
 ## Some of my projects:
 
 ### C++
+[![TexturePacker Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=TexturePacker&theme=darcula)](https://github.com/patrycioss/TexturePacker)
 [![FrogEngine_Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=FrogEngine&theme=darcula)](https://github.com/patrycioss/FrogEngine)
 [![CMGT_PrototypeGame Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=CMGT_PrototypeGame&theme=darcula)](https://github.com/patrycioss/CMGT_PrototypeGame)
 [![Simple_3Dmodel_Loader_Card](https://github-readme-stats.vercel.app/api/pin/?username=patrycioss&repo=Simple3DModelLoader&theme=darcula)](https://github.com/patrycioss/Simple3DModelLoader)
