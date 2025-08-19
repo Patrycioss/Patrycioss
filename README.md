@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Patrick and I'm a Game Engine/Gameplay programmer. I'm studying Creative Media and Game Technologies at University of Applied Sciences Saxion.
+My name is Patrick and I'm a Game Engine/Gameplay programmer. I've recently graduated as an engineer from Creative Media and Game Technologies at University of Applied Sciences Saxion Enschede.
 
 Feel free to contact me via:
 
